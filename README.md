@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there, I'm Tonmoy 👋
 
-<!--
-**ts42a/ts42a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+- Second-year Computer Science student at the University of Wollongong (UOW)
+- Passionate about AI, Machine Learning, and full-stack web development
+- Hardworking and quick to learn new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages:** Python, JavaScript, SQL
+- **Frameworks/Libraries:** Flask, Bootstrap 5, SQLAlchemy, TensorFlow
+- **Tools & Platforms:** Git, GitHub, Docker, Jira
+- **Databases:** MySQL, SQLite
+
+## 🚀 Featured Projects
+
+### 🏠 334 Service Marketplace
+A responsive web app connecting consumers with on-demand home and professional services.
+
+- **Search & Discovery:** Filter by provider name, location, and service category
+- **User Onboarding:** Role-based sign-in/sign-up for Consumers & Providers
+- **Trust & Transparency:** Live metrics (services provided, average rating, total providers) and FAQ section
+
+🔗 [View the code](https://github.com/<your-username>/service-marketplace)
+
+### 🎫 Easy Booking
+An event booking platform for organizers and attendees.
+
+- **Event Discovery:** Search by event name, location, category, and guest count
+- **Role-based Modals:** Sign-in/Sign-up for Users & Organizers
+- **Local Highlights & Newsletter:** Showcase nearby events and collect subscriber emails
+
+🔗 [View the code](https://github.com/<your-username>/easy-booking)
+
+## 📂 Other Projects
+
+- ✈️ **Airline Booking System**: Full-stack booking flow built with Flask and MySQL
+- 💳 **POS AI System**: AI-driven analytics for small business point-of-sale
+
+🔗 [Explore more](https://github.com/<ts42a>)
+
+## 🎯 Goals
+
+- Secure an internship in AI/ML or software development by July 2025
+- Build intelligent applications using LangChain and AI Agents
+- Contribute to open-source ML projects
+
+## 📫 Let's Connect
+
+- **Email:** tonmoysarker@example.com  
+- **LinkedIn:** [linkedin.com/in/tonmoysarker](https://www.linkedin.com/in/tonmoy42a/)  
+- **Portfolio:** [tonmoysarker.dev](https://tonmoysarker.dev)
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
