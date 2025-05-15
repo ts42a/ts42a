@@ -48,9 +48,9 @@ An event booking platform for organizers and attendees.
 
 ## 📫 Let's Connect
 
-- **Email:** tonmoysarker@example.com  
+- **Email:** tosarker840@gmail.com  
 - **LinkedIn:** [linkedin.com/in/tonmoysarker](https://www.linkedin.com/in/tonmoy42a/)  
-- **Portfolio:** [tonmoysarker.dev](https://tonmoysarker.dev)
+- **Portfolio:** [https://tonmoysarker.dev](https://ts42a.github.io/)
 
 ---
 
