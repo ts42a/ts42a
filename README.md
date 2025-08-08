@@ -18,7 +18,7 @@
 
 ## 📌 Featured Projects
 
-🚀 **[334 Service Marketplace](#)**  
+🚀 **[Service Marketplace](#)**  
 A dynamic full-stack platform for booking local services with responsive UI, user roles, and Flask integration.
 
 🎟️ **[Easy Booking](#)**  
